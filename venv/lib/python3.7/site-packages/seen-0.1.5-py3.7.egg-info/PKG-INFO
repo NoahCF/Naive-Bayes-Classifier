@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: seen
+Version: 0.1.5
+Summary: Supported JavaScript Web crawling framework for everyone.
+Home-page: https://github.com/HuberTRoy/seen
+Author: cyrbuzz
+Author-email: cyrbuzz@foxmail.com
+License: GNU GPL 3
+Description: UNKNOWN
+Keywords: crawling,spider,Lightweight,supported_javaScript,JavaScript,crawler
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
